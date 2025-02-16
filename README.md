@@ -6,7 +6,7 @@
 
 A **curated collection of free resources** for **students, educators, and educational institutions**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help educators and learners access **free software, tools, and platforms** to support education and learning.
 
-🌐 The list of free goodies for education will soon be available as a website at FreeForEducation.com, making it easier to explore and navigate online.
+🌐 The list of free goodies for education is also available as a website at [FreeForEducation.com](https://freeforeducation.com/), making it easier to explore and navigate online.
 
 ## ⭐ Why Star This Repo?
 
