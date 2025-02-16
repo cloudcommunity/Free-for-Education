@@ -8,6 +8,8 @@ A **curated collection of free resources** for **students, educators, and educat
 
 🌐 The list of free goodies for education is also available as a website at [FreeForEducation.com](https://freeforeducation.com/), making it easier to explore and navigate online.
 
+📰 Stay updated with the latest free resources for startups by subscribing to our **newsletter** at [freeforeducation.substack.com](https://freeforeducation.substack.com/).
+
 ## ⭐ Why Star This Repo?
 
 Starring this repository helps more students and educators discover these free resources. If you find this list useful, please **star the repo** and share it with your network!
