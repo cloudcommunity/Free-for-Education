@@ -3,6 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/cloudcommunity/Free-for-Education?style=social)](https://github.com/cloudcommunity/Free-for-Education/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/cloudcommunity/Free-for-Education/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FreeForEdu?style=social)](https://twitter.com/FreeForEdu)
 
 A **curated collection of free resources** for **students, educators, and educational institutions**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help educators and learners access **free software, tools, and platforms** to support education and learning.
 
